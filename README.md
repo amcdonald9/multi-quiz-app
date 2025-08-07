@@ -17,8 +17,8 @@ This is a simple multi-question quiz built using HTML, CSS, and JavaScript — a
 
 ## 🚀 Live Site
 
-[Click here to view the quiz](https://your-username.github.io/your-repo-name/)  
-→ Replace the link above with your actual GitHub Pages URL
+[Click here to view the quiz](https://amcdonald9.github.io/multi-quiz-app/)  
+
 
 ## 🤓 Just for Fun
 
